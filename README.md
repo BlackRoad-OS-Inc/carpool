@@ -1,3 +1,11 @@
+# carpool
+
+> CarPool — Sovereign messaging and pub/sub. BlackRoad fork of NATS. Real-time fleet communication.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # CarPool — BlackRoad Road Fleet
 
 > **Sovereign messaging and pub/sub.** Fork of [NATS](https://github.com/nats-io/nats-server).
